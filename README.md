@@ -1,4 +1,4 @@
-# FAANG-2025
+# FAANG-Preparation
 Cracking the Coding Interview: Coding Challenges and Solutions
 
 # The Coding Interview Toolkit
