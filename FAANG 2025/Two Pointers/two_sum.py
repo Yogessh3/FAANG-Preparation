@@ -1,3 +1,4 @@
+#Time - O(n) || Space - O(n)
 def twoSum(nums, target):
         visitedIdx = {}
         for idx in range(len(nums)):
